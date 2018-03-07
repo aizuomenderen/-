@@ -1,0 +1,15 @@
+html,
+body {
+  height: 100%;
+}
+a {
+  text-decoration: none;
+  color: #a9c5f1;
+}
+.el-icon-message {
+  color: #fff;
+}
+.el-carousel__container {
+  height: 341px;
+}
+/*# sourceMappingURL=./index.css.map */

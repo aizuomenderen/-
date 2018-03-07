@@ -1,5 +1,7 @@
 <template>
-  <router-view></router-view>
+  <div>
+下单成功
+  </div>
 </template>
 
 <script>

@@ -1,5 +1,7 @@
 <template>
-  <router-view></router-view>
+  <div>
+支付
+  </div>
 </template>
 
 <script>
